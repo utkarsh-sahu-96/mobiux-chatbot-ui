@@ -126,7 +126,7 @@ BEGIN
         TRUE,
         'Home',
         4096,
-        'gpt-4o',
+        'gpt-4o-2024-08-06',
         'You are a friendly, helpful AI assistant.',
         0.5,
         'My home workspace.',
